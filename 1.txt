@@ -1,7 +1,7 @@
-ecgocwecw
-wrthvwthv
-whvtrwr
-thwrht
-wrhtwr
-htw
-rh
+Master
+<<<<<<< HEAD
+Master 2
+=======
+First Branch
+	Commit 1
+>>>>>>> 05efbd0 (Update 1.txt)
